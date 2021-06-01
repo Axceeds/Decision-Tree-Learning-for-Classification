@@ -7,3 +7,4 @@ entropy.m为计算信息熵函数，返回最大信息熵、取得最大信息�
 iris.data为iris数据集
 main.m主函数，生成决策树
 mylog.m定义0*log0=0
+process_attribute.m用以生成分类过一次后所生成新的的两组数据
